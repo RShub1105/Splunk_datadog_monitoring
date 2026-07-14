@@ -1,4 +1,4 @@
-# Splunk & Datadog Observability Demo
+# Splunk & Datadog Observability
 
 A simple **Application Health Monitoring** project built with **Python Flask**, **Splunk Enterprise**, **Datadog**, and **Docker** to demonstrate basic observability, log analysis, infrastructure monitoring, dashboards, and alerts.
 
